@@ -1,1 +1,1 @@
-Extract video frame from given Video using openv-python
+Extract video frame from given Video using opencv-python
